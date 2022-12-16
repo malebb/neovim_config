@@ -1,4 +1,4 @@
-#Guide to setup Neovim environment
+# Guide to setup Neovim environment
 
 ## Installation (Linux)
 
