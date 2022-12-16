@@ -19,7 +19,7 @@ This repository contains a setup.sh that will automatically setup a neovim envir
 
 ### Install Neovim (Linux)
 
-First, ensure that the .local/bin folder exist in your home, it will contain our neovim binary:
+First, ensure that the .local/bin folder exist in your home, it will contain our neovim binary :
 
 ```bash
 mkdir -p $HOME/.local/bin
@@ -31,7 +31,7 @@ Make sure your shell know this folder by adding its location to the $PATH enviro
 export PATH=$HOME/.local/bin:$PATH
 ```
 
-Download the latest version of neovim in the official github repository:
+Download the latest version of neovim in the official github repository :
 
 ```bash
 curl -LO https://github.com/neovim/neovim/releases/latest/download/nvim.appimage \
